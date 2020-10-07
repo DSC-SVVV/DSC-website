@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, withRouter } from "react-router-dom";
 import "./Base.css";
-import Logo from "./logo.png";
+import Logo from "./bg.png";
 
 const currentTab = (history, path) => {
     if (history.location.pathname === path) {
