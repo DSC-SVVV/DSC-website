@@ -78,6 +78,4 @@ const Home = () => {
     );
 }
 
-<p> For more details regarding DSC-SVVV visit: <a href="https://linktr.ee/dscsvvv">linktr.ee/dscsvvv</a> </p>
-
 export default Home;
